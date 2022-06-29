@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+</html>
+</head>
+</title>page Title</title>
+<style>
+    body
+     {
+      background-image: url('abdullah.jfif');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    </style>
+    <body>
+       
+<body bgcolor="black">
+<body text="green">
+<img src= "abdull.jpg">
+<h1>abdullah website</h1>
+
+<a href="https://www.google.com/">google</a>
+<hr color="green"size="4"width="20%">
+</head>
+</body>
+</html>
