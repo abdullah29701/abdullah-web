@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+</html>
+</head>
+</title>page Title</title>
+<style>
+    body
+     {
+      background-image: url('abdullah.jfif');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    </style>
+    <body>
+        <button> <a href="about.html";> About us </a></button>
+<ul type="square">
+    <li> <b> punjab </b> </li>
+    <li> <i> kpk </i> </li>
+    <li>isb</li>
+    </ul>
+<body bgcolor="black">
+<body text="green">
+<img src= "abdull.jpg">
+<h1>abdullah website</h1>
+<h1>heading 1</h1>
+<h1>heading 2</h1>
+<h1>heading 3</h1>
+<h1>heading 4</h1>
+<h1>heading 5</h1>
+<h1>heading 6</h1>
+<h1>heading 7</h1>
+<a href="https://www.google.com/">google</a>
+<hr color="green"size="4"width="20%">
+</head>
+</body>
+</html>
