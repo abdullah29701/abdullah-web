@@ -1,0 +1,27 @@
+h1{
+  font-size: 60px;
+  color:brown;
+}
+h2{
+  font-size: 3rem;
+  font-weight: 500px;
+  color:brown;
+}
+h3{
+  color:brown;
+}
+p{
+  color:chartreuse;
+}
+.text{
+  color: rgba(218, 20, 20, 0.959);
+  text-align: center;
+  stroke-opacity: unset;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+}
