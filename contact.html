@@ -42,3 +42,53 @@
 </head>
 </body>
 </html>
+    
+    
+    
+    
+    
+    
+    
+    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nevgbar" style="background-color: grey;">
+    
+    <a href="home.html">HOME</a>
+    <a href="menu.html">MENU</a>
+    <a href="about.html">ABOUT</a>
+    <a href="contact.html">CONTACT</a>
+    </div>
+    <h1>
+        <u>CONTACT US</u>
+    </h1>
+    <p>Find us at some address at some place or call us at 03-555-444-979<br></p>
+    <p><b>FYI!</b> We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste.<br></p>
+    <p><b>Reserve</b> a table, ask for today's special or just send us a message:<br></p>
+    <div> 
+          <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+     First Name: <br> <input type="text" placeholder="F-name" required> <br>
+     Last Name: <br> <input type="text" placeholder="L-name" required> <br> 
+     Persons: <br> <input type="number" placeholder="Total Persons"> <br> 
+     Mob Number: <br> <input type="tel" minlength="11" maxlength="11" id="phone" name="phone" placeholder="03*********" pattern="[0-9]{11}" required><br>
+     Date: <br> <input type="date" placeholder="DD//MM//YYYY"> <br> 
+     Message: <br> <input type="text" cols="30" rows="5" placeholder="Special Requirments"> <br> <br>
+     <input type="submit" value="Submit" onclick="feedBack()">           
+     <script>
+      function feedBack()
+     {
+     alert("Your Feedback is Submitted");
+  }
+ </script>
+ </form>
+ </div>
+ </body>
+ </html>
